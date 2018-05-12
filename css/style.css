@@ -1,0 +1,78 @@
+/***** BASE *****/
+
+body {
+	background-color: #f2f0f4;
+	font-family: 'EB Garamond', serif;
+	color: #5b5b5b;
+}
+
+p {
+	color: #000000;
+}
+
+.heading {
+	font-family: 'Skranji', cursive;
+	text-transform: uppercase;
+}
+
+/***** HEADER *****/
+
+div h1 {
+	text-align: center;
+}
+
+#special-title {
+	color: #8fe5d9;
+	text-align: center;
+}
+
+.border-bottom {
+	border-bottom: 5px double #5b5b5b;
+}
+
+#main-img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/***** FEATURED WORK *****/
+
+#work-title {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+a p {
+	color: #8fe5d9;
+}
+
+a img {
+	border: 4px solid #8fe5d9;
+	border-radius: 5px 20px 5px;
+}
+
+/***** ABOUT *****/
+
+div h3 {
+	font-family: 'Skranji', cursive;
+	text-transform: uppercase;
+}
+
+li {
+	list-style: none;
+	padding-right: 7%;
+}
+
+/***** FOOTER *****/
+
+footer {
+	border-top: 5px double #5b5b5b;
+}
+
+i {
+	color: #8fe5df;
+}
